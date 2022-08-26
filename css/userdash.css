@@ -1,0 +1,102 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css");
+body {
+    padding-top: 80px;
+  }
+span.glyphicon:hover {
+    border-top-style: none;
+}
+
+.about-img {
+  border: 5px solid rgb(0, 0, 0);
+    border-radius: 100%;
+}
+
+#home {
+  padding-top: 10px;
+  background-color: none;
+  border-bottom: 1px solid Gainsboro; 
+}
+
+blockquote {
+  border-style: none;
+}
+.about {
+ 
+  background-color: whitesmoke;
+}
+
+.about .row:first-child {
+  padding-top: 50px;
+  
+}
+
+.about .row {
+  padding-bottom: 50px;
+}
+
+.about .row
+{
+  background-color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.about .row .fa-circle {
+  color: rgb(0, 0, 0);
+ 
+}
+
+.about .row .fa-circle-thin {
+  color: rgb(0, 0, 0);
+}
+.about h4 {
+  font-family: "Lato";
+  font-size: 25px;
+  
+  color: black;
+  padding-top:15px;
+}
+#myCarousel {
+  border-bottom: 1px solid grey;
+}
+
+.carousel-inner img{
+  width:100%;
+}
+
+.carousel-inner{
+  width:100%;
+}
+.contacts .row {
+  background-color: black;
+  padding-bottom: 20px;
+}
+
+.contacts .row h4 {
+  color: white;
+  padding-top:10px;
+  padding-bottom:5px;
+}
+
+.glyphicon {
+  color:rgb(0, 0, 0);
+}
+
+p {
+  color: text-muted;
+}
+.fa-stack:hover {
+  color: rgb(0, 0, 0);
+}
+
+.color{
+    color:white;
+}
+
+body > footer {
+  background-color: #303030;
+  color: white;
+  padding-top: 2px;
+  padding-bottom: 1px;
+}
+
