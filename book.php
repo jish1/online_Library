@@ -15,7 +15,7 @@
 </head>
 <script>
 function myFunction() {
-      let text = "No Book Found, Do You Want To Request the Book?";
+      let text = "No  Book Found, Do You Want To Request the Book?";
       if (confirm(text) == true) {
         window.location="./reqbook.php";
       } else {
